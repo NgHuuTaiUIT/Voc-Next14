@@ -1,0 +1,41 @@
+{
+  "name": "next-14-empty-starter-template",
+  "description": "hot nextjs topic for youtube",
+  "version": "0.1.0",
+  "author": {
+    "name": "Hỏi Dân IT",
+    "url": "https://hoidanit.com.vn"
+  },
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "electron:dev": "npm run build:main && wait-on tcp:3000 && electron .",
+    "electron": "electron .",
+    "pack": "npm run build && electron-builder --dir",
+    "dist": "npm run build && electron-builder"
+  },
+  "dependencies": {
+    "@ant-design/cssinjs": "1.17.2",
+    "antd": "5.11.2",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43",
+    "next": "14.0.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.9.2",
+    "@types/react": "18.2.37",
+    "@types/react-dom": "18.2.15",
+    "@types/electron": "^1.6.10",
+    "eslint": "8.54.0",
+    "eslint-config-next": "14.0.3",
+    "typescript": "5.2.2",
+    "electron": "^26.2.0",
+    "electron-builder": "^24.6.4"
+  }
+}

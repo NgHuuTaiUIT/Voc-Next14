@@ -1,0 +1,159 @@
+{
+  "appointments": [
+    {
+      "id": 1,
+      "userId": 1,
+      "employeeId": 1,
+      "date": 1701156332035
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "employeeId": 1,
+      "date": 1701156332035
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "employeeId": 1,
+      "date": 1701156332035
+    },
+    {
+      "name": 4,
+      "email": "a",
+      "id": 4
+    },
+    {
+      "date": 1701342925000,
+      "userId": 9,
+      "employeeId": 5,
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Eric",
+      "email": "eric@gmail.com",
+      "age": 20,
+      "gender": "male",
+      "phone": "0929294214"
+    },
+    {
+      "id": 4,
+      "name": "asasâs",
+      "email": "asa",
+      "age": 20,
+      "gender": "male",
+      "phone": "0929294214"
+    },
+    {
+      "name": "das",
+      "email": "dsa",
+      "id": 5,
+      "age": 20,
+      "gender": "male",
+      "phone": "0929294214"
+    },
+    {
+      "name": "aaaaa",
+      "email": "asdsada",
+      "gender": "male",
+      "phone": "0929294214",
+      "age": "20",
+      "id": 7
+    },
+    {
+      "name": "a",
+      "email": "a",
+      "gender": "male",
+      "phone": "21321321",
+      "age": "12",
+      "id": 8
+    },
+    {
+      "name": "asdsa",
+      "email": "adsadadwa",
+      "gender": "male",
+      "phone": "23131312",
+      "age": "12",
+      "id": 9
+    },
+    {
+      "name": "assasa",
+      "email": "",
+      "gender": "male",
+      "phone": "",
+      "age": "",
+      "id": 10
+    },
+    {
+      "name": "assas",
+      "email": "",
+      "gender": "male",
+      "phone": "",
+      "age": "",
+      "id": 11
+    },
+    {
+      "name": "asas",
+      "email": "",
+      "gender": "male",
+      "phone": "",
+      "age": "",
+      "id": 12
+    },
+    {
+      "name": "bbbbbb",
+      "email": "",
+      "gender": "male",
+      "phone": "",
+      "age": "",
+      "id": 13
+    },
+    {
+      "name": "Usename",
+      "email": "",
+      "gender": "male",
+      "phone": "",
+      "age": "",
+      "id": 14
+    },
+    {
+      "name": "aaaaaa",
+      "email": "",
+      "gender": "male",
+      "phone": "",
+      "age": "",
+      "id": 15
+    },
+    {
+      "name": "USERNAME",
+      "email": "",
+      "gender": "male",
+      "phone": "",
+      "age": "",
+      "id": 16
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Eric",
+      "email": "eric@gmail.com",
+      "phone": "0929294214"
+    },
+    {
+      "id": 4,
+      "name": "asasâs",
+      "email": "asa",
+      "phone": "0929294214"
+    },
+    {
+      "id": 5,
+      "name": "das",
+      "email": "dsa",
+      "phone": "0929294214"
+    }
+  ]
+}
